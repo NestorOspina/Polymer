@@ -20,7 +20,7 @@ hyd.Analyzer.analyze('path-to-polymer-element.html')
 For more detail, see the [API Docs](API.md).
 
 
-## Developing
+## Developing.
 You need [wct](https://github.com/Polymer/web-component-tester) to run the tests.
 
 Run a one-off build of the project:
